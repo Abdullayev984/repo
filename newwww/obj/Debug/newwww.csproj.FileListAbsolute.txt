@@ -1,0 +1,55 @@
+C:\new1\newwww\newwww\bin\Debug\newwww.exe
+C:\new1\newwww\newwww\bin\Debug\newwww.pdb
+C:\new1\newwww\newwww\obj\Debug\ResolveAssemblyReference.cache
+C:\new1\newwww\newwww\obj\Debug\newwww.Form1.resources
+C:\new1\newwww\newwww\obj\Debug\newwww.Properties.Resources.resources
+C:\new1\newwww\newwww\obj\Debug\newwww.csproj.GenerateResource.Cache
+C:\new1\newwww\newwww\obj\Debug\newwww.exe
+C:\new1\newwww\newwww\obj\Debug\newwww.pdb
+C:\new1\newwww\newwww\obj\Debug\newwww.Form2.resources
+C:\new1\newwww\newwww\obj\Debug\newwww.Form3.resources
+D:\projectts\new1\newwww\newwww\obj\Debug\newwww.exe
+D:\projectts\new1\newwww\newwww\obj\Debug\newwww.pdb
+D:\projectts\new1\newwww\newwww\bin\Debug\newwww.exe
+D:\projectts\new1\newwww\newwww\bin\Debug\newwww.pdb
+D:\projectts\new1\newwww\newwww\obj\Debug\ResolveAssemblyReference.cache
+D:\projectts\new1\newwww\newwww\obj\Debug\newwww.Form1.resources
+D:\projectts\new1\newwww\newwww\obj\Debug\newwww.Form2.resources
+D:\projectts\new1\newwww\newwww\obj\Debug\newwww.Form3.resources
+D:\projectts\new1\newwww\newwww\obj\Debug\newwww.Properties.Resources.resources
+D:\projectts\new1\newwww\newwww\obj\Debug\newwww.csproj.GenerateResource.Cache
+C:\Users\Nemet\Desktop\lazimolanlar\projectts\new1\newwww\newwww\obj\Debug\newwww.exe
+C:\Users\Nemet\Desktop\lazimolanlar\projectts\new1\newwww\newwww\obj\Debug\newwww.pdb
+C:\Users\User\Desktop\gggg\New folder\projectts\new1\newwww\newwww\bin\Debug\newwww.exe
+C:\Users\User\Desktop\gggg\New folder\projectts\new1\newwww\newwww\bin\Debug\newwww.pdb
+C:\Users\User\Desktop\gggg\New folder\projectts\new1\newwww\newwww\obj\Debug\newwww.csprojAssemblyReference.cache
+C:\Users\User\Desktop\gggg\New folder\projectts\new1\newwww\newwww\obj\Debug\newwww.Form1.resources
+C:\Users\User\Desktop\gggg\New folder\projectts\new1\newwww\newwww\obj\Debug\newwww.Form2.resources
+C:\Users\User\Desktop\gggg\New folder\projectts\new1\newwww\newwww\obj\Debug\newwww.Form3.resources
+C:\Users\User\Desktop\gggg\New folder\projectts\new1\newwww\newwww\obj\Debug\newwww.Properties.Resources.resources
+C:\Users\User\Desktop\gggg\New folder\projectts\new1\newwww\newwww\obj\Debug\newwww.csproj.GenerateResource.cache
+C:\Users\User\Desktop\gggg\New folder\projectts\new1\newwww\newwww\obj\Debug\newwww.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\gggg\New folder\projectts\new1\newwww\newwww\obj\Debug\newwww.exe
+C:\Users\User\Desktop\gggg\New folder\projectts\new1\newwww\newwww\obj\Debug\newwww.pdb
+C:\Users\User\Desktop\New folder\projectts\new1\newwww\newwww\bin\Debug\newwww.exe
+C:\Users\User\Desktop\New folder\projectts\new1\newwww\newwww\bin\Debug\newwww.pdb
+C:\Users\User\Desktop\New folder\projectts\new1\newwww\newwww\obj\Debug\newwww.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder\projectts\new1\newwww\newwww\obj\Debug\newwww.Form1.resources
+C:\Users\User\Desktop\New folder\projectts\new1\newwww\newwww\obj\Debug\newwww.Form2.resources
+C:\Users\User\Desktop\New folder\projectts\new1\newwww\newwww\obj\Debug\newwww.Form3.resources
+C:\Users\User\Desktop\New folder\projectts\new1\newwww\newwww\obj\Debug\newwww.Properties.Resources.resources
+C:\Users\User\Desktop\New folder\projectts\new1\newwww\newwww\obj\Debug\newwww.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder\projectts\new1\newwww\newwww\obj\Debug\newwww.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\projectts\new1\newwww\newwww\obj\Debug\newwww.exe
+C:\Users\User\Desktop\New folder\projectts\new1\newwww\newwww\obj\Debug\newwww.pdb
+C:\Users\User\Desktop\newwww\newwww\bin\Debug\newwww.exe
+C:\Users\User\Desktop\newwww\newwww\bin\Debug\newwww.pdb
+C:\Users\User\Desktop\newwww\newwww\obj\Debug\newwww.csprojAssemblyReference.cache
+C:\Users\User\Desktop\newwww\newwww\obj\Debug\newwww.Form1.resources
+C:\Users\User\Desktop\newwww\newwww\obj\Debug\newwww.Form2.resources
+C:\Users\User\Desktop\newwww\newwww\obj\Debug\newwww.Form3.resources
+C:\Users\User\Desktop\newwww\newwww\obj\Debug\newwww.Properties.Resources.resources
+C:\Users\User\Desktop\newwww\newwww\obj\Debug\newwww.csproj.GenerateResource.cache
+C:\Users\User\Desktop\newwww\newwww\obj\Debug\newwww.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\newwww\newwww\obj\Debug\newwww.exe
+C:\Users\User\Desktop\newwww\newwww\obj\Debug\newwww.pdb
